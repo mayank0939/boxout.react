@@ -1,0 +1,248 @@
+{
+    "count": 40,
+    "next": "http://localhost:8000/api/shows/?page=2",
+    "previous": null,
+    "results": [
+        {
+            "id": 422,
+            "name": "A Worldwide Thing",
+            "image": "http://localhost:8000/mediafiles/radio/show/a-worldwide-thing_mE80Oe3.jpg",
+            "description": "<p>Presented by Amrisha, and originally broadcast on Radar Radio London, A Worldwide Thing brings the latest in global underground music, covering soul, jazz, hip-hop, house and anything in-between.</p>",
+            "host": [
+                {
+                    "id": 505,
+                    "name": "boxout.fm",
+                    "slug": "boxoutfm"
+                }
+            ],
+            "tags": [],
+            "show_frequency": null,
+            "excerpt": "Presented by Amrisha, and originally broadcast on Radar Radio London, A Worldwide Thing brings the latest in global underground music, covering soul, jazz, hip-hop, house and anything in-between.",
+            "status": "Published",
+            "slug": "a-worldwide-thing",
+            "published_on": "2018-03-16T03:55:40+05:30",
+            "featured": false,
+            "featured_on": null,
+            "collab": false,
+            "added_on": "2018-02-26T23:02:41+05:30"
+        },
+        {
+            "id": 423,
+            "name": "bandcamp hour",
+            "image": "http://localhost:8000/mediafiles/radio/show/bandcamp-hour_ycVpkNQ.jpg",
+            "description": "<p>Inspired by Andrew Jervis’ weekly showcase, Bandcamp hour will see users of the acclaimed independent music platform – right from artists to its most avid aficionados - shed light on some of the finest self-released music the good people of the Internet have to offer.</p>",
+            "host": [
+                {
+                    "id": 505,
+                    "name": "boxout.fm",
+                    "slug": "boxoutfm"
+                }
+            ],
+            "tags": [],
+            "show_frequency": null,
+            "excerpt": "Inspired by Andrew Jervis’ weekly showcase, Bandcamp hour will see users of the acclaimed independent music platform – right from artists to its most avid aficionados - shed light on some of the finest self-released music the good people of the Internet have to offer. ",
+            "status": "Published",
+            "slug": "bandcamp-hour",
+            "published_on": "2018-03-16T03:55:40+05:30",
+            "featured": false,
+            "featured_on": null,
+            "collab": false,
+            "added_on": "2018-02-26T23:02:42+05:30"
+        },
+        {
+            "id": 424,
+            "name": "Beyond The Abyss",
+            "image": "http://localhost:8000/mediafiles/radio/show/beyond-the-abyss_8sT7qia.jpg",
+            "description": "<p>Decidedly Drexciyan in nature, Beyond The Abyss plumbs the depths of outsider techno, IDM and electro. Essential listening for underwater explorers, celestial travelers and chronic daydreamers.</p>",
+            "host": [
+                {
+                    "id": 505,
+                    "name": "boxout.fm",
+                    "slug": "boxoutfm"
+                }
+            ],
+            "tags": [],
+            "show_frequency": null,
+            "excerpt": "Decidedly Drexciyan in nature, Beyond The Abyss plumbs the depths of outsider techno, IDM and electro. Essential listening for underwater explorers, celestial travelers and chronic daydreamers.",
+            "status": "Published",
+            "slug": "beyond-the-abyss",
+            "published_on": "2018-03-16T03:55:40+05:30",
+            "featured": false,
+            "featured_on": null,
+            "collab": false,
+            "added_on": "2018-02-26T23:02:42+05:30"
+        },
+        {
+            "id": 425,
+            "name": "Booty Bangers",
+            "image": "http://localhost:8000/mediafiles/radio/show/booty-bangers_jycmVrp.jpg",
+            "description": "<p>The 264 Cru are proud to present the Booty Bangers mix series. The crew hand-picks an artist each month to lay down juicy smashers to get you ready for the weekend.</p>",
+            "host": [
+                {
+                    "id": 505,
+                    "name": "boxout.fm",
+                    "slug": "boxoutfm"
+                }
+            ],
+            "tags": [],
+            "show_frequency": null,
+            "excerpt": "The 264 Cru are proud to present the Booty Bangers mix series. The crew hand-picks an artist each month to lay down juicy smashers to get you ready for the weekend.",
+            "status": "Published",
+            "slug": "booty-bangers",
+            "published_on": "2018-03-16T03:55:40+05:30",
+            "featured": false,
+            "featured_on": null,
+            "collab": false,
+            "added_on": "2018-02-26T23:02:42+05:30"
+        },
+        {
+            "id": 426,
+            "name": "boxout social",
+            "image": "http://localhost:8000/mediafiles/radio/show/boxout-social_gu8JxSl.jpg",
+            "description": "<p>DJs tell us they love playing during the day, and we agree. That’s the idea behind boxoutsocial – a live broadcast, monthly event series that takes place at one of Socials’ various venues across the country. Think easygoing, unhurried Sunday afternoon vibes.</p>",
+            "host": [
+                {
+                    "id": 505,
+                    "name": "boxout.fm",
+                    "slug": "boxoutfm"
+                }
+            ],
+            "tags": [],
+            "show_frequency": null,
+            "excerpt": "DJs tell us they love playing during the day, and we agree. That’s the idea behind boxoutsocial – a live broadcast, monthly event series that takes place at one of Socials’ various venues across the country. Think easygoing, unhurried Sunday afternoon vibes. ",
+            "status": "Published",
+            "slug": "boxout-social",
+            "published_on": "2018-03-16T13:06:43+05:30",
+            "featured": false,
+            "featured_on": null,
+            "collab": false,
+            "added_on": "2018-02-26T23:02:42+05:30"
+        },
+        {
+            "id": 427,
+            "name": "Boxout Wednesdays",
+            "image": "http://localhost:8000/mediafiles/radio/show/boxout-wednesdays_AN2KecJ.jpg",
+            "description": "<p>Mid-week is now a lot more interesting with boxoutwednesdays. The event series is tailored to present the sounds and styles that champion underground culture, particularly for those who don’t have the patience for sweaty weekends to go out and hear something new. These mixes are live recordings from the club.</p>",
+            "host": [
+                {
+                    "id": 505,
+                    "name": "boxout.fm",
+                    "slug": "boxoutfm"
+                }
+            ],
+            "tags": [],
+            "show_frequency": null,
+            "excerpt": "Mid-week is now a lot more interesting with boxoutwednesdays. The event series is tailored to present the sounds and styles that champion underground culture, particularly for those who don’t have the patience for sweaty weekends to go out and hear something new. These mixes are live recordings from the club.",
+            "status": "Published",
+            "slug": "boxout-wednesdays",
+            "published_on": "2018-03-16T03:55:40+05:30",
+            "featured": false,
+            "featured_on": null,
+            "collab": false,
+            "added_on": "2018-02-26T23:02:42+05:30"
+        },
+        {
+            "id": 428,
+            "name": "Chai And Chill",
+            "image": "http://localhost:8000/mediafiles/radio/show/chai-and-chill_nPAnmYW.jpg",
+            "description": "<p>You&rsquo;re back home from the grind, ready to get your feet up with a nice hot cup of chai and some time to kick back? Boxout.fm has you covered; tune in for the perfect soundtrack to unwind and think of nothing.</p>",
+            "host": [
+                {
+                    "id": 505,
+                    "name": "boxout.fm",
+                    "slug": "boxoutfm"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 769,
+                    "name": "Beats",
+                    "slug": "beats"
+                },
+                {
+                    "id": 802,
+                    "name": "Chillout",
+                    "slug": "chillout"
+                }
+            ],
+            "show_frequency": "Every Month",
+            "excerpt": "You’re back home from the grind, ready to get your feet up with a nice hot cup of chai and some time to kick back? Boxout.fm has you covered; tune in for the perfect soundtrack to unwind and think of nothing.",
+            "status": "Published",
+            "slug": "chai-and-chill",
+            "published_on": "2018-03-16T03:55:40+05:30",
+            "featured": false,
+            "featured_on": null,
+            "collab": false,
+            "added_on": "2018-02-26T23:02:43+05:30"
+        },
+        {
+            "id": 430,
+            "name": "Control Sessions",
+            "image": "http://localhost:8000/mediafiles/radio/show/control-sessions_5sqhOjU.jpg",
+            "description": "<p>Aniruddh Mehta aka thebigfatminimalist aka bigfat takes us through dub, dubstep, grime and other sub-bass driven sound system domains in Control Sessions. The host’s renowned design aesthetic informs the show’s sharp tones – keep your hoods up, heads down and eyes shut every month on boxout.fm.</p>",
+            "host": [
+                {
+                    "id": 505,
+                    "name": "boxout.fm",
+                    "slug": "boxoutfm"
+                }
+            ],
+            "tags": [],
+            "show_frequency": null,
+            "excerpt": "Aniruddh Mehta aka thebigfatminimalist aka bigfat takes us through dub, dubstep, grime and other sub-bass driven sound system domains in Control Sessions. The host’s renowned design aesthetic informs the show’s sharp tones – keep your hoods up, heads down and eyes shut every month on boxout.fm.",
+            "status": "Published",
+            "slug": "control-sessions",
+            "published_on": "2018-03-16T03:55:40+05:30",
+            "featured": false,
+            "featured_on": null,
+            "collab": false,
+            "added_on": "2018-02-26T23:02:43+05:30"
+        },
+        {
+            "id": 431,
+            "name": "Cosmic Claps",
+            "image": "http://localhost:8000/mediafiles/radio/show/cosmic-claps_uXh2Ql6.jpg",
+            "description": "<p>Cosmic Claps was created keeping in mind those moments when you’re semi-preoccupied and can’t be bothered to put on a pair of headphones, but need that undulating beat to keep the vibe alive. This is music that seeps into your subconscious – think shades of house, hints of techno and a touch of the eclectic always arriving while constantly in a state of departure.</p>",
+            "host": [
+                {
+                    "id": 505,
+                    "name": "boxout.fm",
+                    "slug": "boxoutfm"
+                }
+            ],
+            "tags": [],
+            "show_frequency": null,
+            "excerpt": "Cosmic Claps was created keeping in mind those moments when you’re semi-preoccupied and can’t be bothered to put on a pair of headphones, but need that undulating beat in the background to keep the vibe alive. This is music that seeps into your subconscious – think shades of house, hints of techno and a touch of the eclectic always arriving while constantly in a state of departure.",
+            "status": "Published",
+            "slug": "cosmic-claps",
+            "published_on": "2018-03-16T03:55:40+05:30",
+            "featured": false,
+            "featured_on": null,
+            "collab": false,
+            "added_on": "2018-02-26T23:02:43+05:30"
+        },
+        {
+            "id": 432,
+            "name": "Dub Rituals",
+            "image": "http://localhost:8000/mediafiles/radio/show/dub-rituals_eNa13Qs.jpg",
+            "description": "<p>Dakta Dub takes control of what he knows best in Dub Rituals. This is music, dance, meditation and musical vibrations coaxed into place with utmost care.</p>",
+            "host": [
+                {
+                    "id": 505,
+                    "name": "boxout.fm",
+                    "slug": "boxoutfm"
+                }
+            ],
+            "tags": [],
+            "show_frequency": null,
+            "excerpt": "Dakta Dub takes control of what he knows best in Dub Rituals. This is music, dance, meditation and musical vibrations coaxed into place with utmost care. ",
+            "status": "Published",
+            "slug": "dub-rituals",
+            "published_on": "2018-03-16T03:55:40+05:30",
+            "featured": false,
+            "featured_on": null,
+            "collab": false,
+            "added_on": "2018-02-26T23:02:45+05:30"
+        }
+    ]
+}
